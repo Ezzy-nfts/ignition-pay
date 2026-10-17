@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-864-web-007-onboarding-tour-steps-do-not-persist",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-864-web-007-onboarding-tour-steps-do-not-persist": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-864-web-007-onboarding-tour-steps-do-not-persist",
+    "origin"
+  ]
+}
